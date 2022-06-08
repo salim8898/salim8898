@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salim8898
-- 👀 I’m interested in Cloud and AWS
+- 👀 I’m interested in AWS cloud and containers.
 - 🌱 I’m currently learning and working in AWS as Kubernets engineer.
 - 💞️ I’m looking to collaborate in Kubernetes.
 - 📫 How to reach me. Email: salim.shaikh9967@gmail.com
